@@ -73,7 +73,7 @@ Stores sales transactions (stock out).
 
 ### Aggregate Functions
 
-• SUM()
+• SUM
 
 ## Advanced Features
 ### Triggers
