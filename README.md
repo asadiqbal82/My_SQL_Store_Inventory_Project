@@ -1,11 +1,10 @@
 # Store Inventory My SQL Project
-Inventory Management System MySQL Project
 
 This is a MySQL project I built while learning SQL. Instead of creating a simple student database, I chose a basic inventory management system.
 
 Businesses need to track products, suppliers, purchases, and sales to manage stock efficiently. This database helps organize inventory records and monitor stock movement automatically.
 
-What This Project Does
+## What This Project Does
 • Stores Product Categories
 
 Saves different product categories such as Electronics, Groceries, and Stationery.
