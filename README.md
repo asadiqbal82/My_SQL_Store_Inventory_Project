@@ -108,7 +108,7 @@ Sample Data Included
 
 • Automatic Stock Updates Using Triggers
 
-What I Learned
+## What I Learned
 
 • How to design and organize relational database tables
 
