@@ -1,1 +1,1 @@
-# My SQL Store Inventory Project
+# Store Inventory My SQL Project
