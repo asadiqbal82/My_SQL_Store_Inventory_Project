@@ -5,53 +5,53 @@ This is a MySQL project I built while learning SQL. Instead of creating a simple
 Businesses need to track products, suppliers, purchases, and sales to manage stock efficiently. This database helps organize inventory records and monitor stock movement automatically.
 
 ## What This Project Does
-• Stores Product Categories
+### Stores Product Categories
 
 Saves different product categories such as Electronics, Groceries, and Stationery.
 
-• Manages Suppliers
+### Manages Suppliers
 
 Stores supplier information including names, phone numbers, and cities.
 
-• Stores Product Data
+### Stores Product Data
 
 Keeps records of products, their prices, categories, suppliers, and available stock quantities.
 
-• Tracks Purchases
+### Tracks Purchases
 
 Records products purchased and automatically increases stock levels.
 
-• Tracks Sales
+### Tracks Sales
 
 Records product sales and automatically reduces stock quantities.
 
-• Generates Inventory Reports
+### Generates Inventory Reports
 
 Provides useful reports for stock levels, product details, and sales summaries.
 
-Database Structure (Tables)
-1. Categories
+## Database Structure (Tables)
+### 1. Categories
 
 Stores product category information.
 
-2. Suppliers
+### 2. Suppliers
 
 Stores supplier details.
 
-3. Products
+### 3. Products
 
 Stores product information including price and stock quantity.
 
-4. Purchases
+### 4. Purchases
 
 Stores purchase transactions (stock in).
 
-5. Sales
+### 5. Sales
 
 Stores sales transactions (stock out).
 
-SQL Concepts Used
-DDL & DML
+## SQL Concepts Used
+### DDL & DML
 
 • CREATE DATABASE
 
@@ -59,7 +59,7 @@ DDL & DML
 
 • INSERT INTO
 
-Data Retrieval
+### Data Retrieval
 
 • SELECT
 
@@ -67,22 +67,22 @@ Data Retrieval
 
 • GROUP BY
 
-Joins
+### Joins
 
 • INNER JOIN
 
-Aggregate Functions
+### Aggregate Functions
 
 • SUM()
 
-Advanced Features
-Triggers
+## Advanced Features
+### Triggers
 
 • AFTER INSERT Trigger for Purchases
 
 • AFTER INSERT Trigger for Sales
 
-Constraints
+## Constraints
 
 • PRIMARY KEY
 
@@ -94,7 +94,7 @@ Constraints
 
 Sample Data Included
 
-The project includes sample data so you can test queries easily:
+## The project includes sample data so you can test queries easily:
 
 • 3 Categories
 
